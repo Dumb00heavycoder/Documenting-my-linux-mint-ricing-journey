@@ -5,3 +5,4 @@
 []fix the sound bug 
 [] change files themes
 [] do autotiling
+[] get a new cool gtk theme
