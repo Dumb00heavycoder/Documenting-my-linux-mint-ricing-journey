@@ -1,4 +1,7 @@
-[]Copy the configs
-[]set the themes as per your wallpapers
-[]set the rofi 
- 
+[x]Copy the configs
+[x]set the themes as per your wallpapers
+[x]set the rofi 
+[]complete the polybar
+[]fix the sound bug 
+[] change files themes
+[] do autotiling
