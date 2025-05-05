@@ -6,3 +6,4 @@
 [] change files themes
 [] do autotiling
 [] get a new cool gtk theme
+[] setup tmux
