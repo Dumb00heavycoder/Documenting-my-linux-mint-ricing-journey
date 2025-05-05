@@ -1,0 +1,4 @@
+[]Copy the configs
+[]set the themes as per your wallpapers
+[]set the rofi 
+ 
