@@ -214,17 +214,11 @@ gaps outer 10
 title_align center
 
 #borders
-default_border normal
+default_border none
 default_floating_border normal
 default_floating_border normal
 
-#colors
-# Classy red Gruvbox-style color scheme
-client.focused          #cc241d #cc241d #1d2021 #fb4934 #1d2021
-client.focused_inactive #504945 #504945 #1d2021 #b16286 #1d2021
-client.unfocused        #3c3836 #3c3836 #1d2021 #928374 #1d2021
-client.urgent           #fb4934 #fb4934 #1d2021 #fbf1c7 #1d2021
-client.placeholder      #1d2021 #1d2021 #1d2021 #a89984 #1d2021
+
 
 #pasystray
 exec --no-startup-id pasystray
