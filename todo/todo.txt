@@ -7,3 +7,4 @@
 [x] do autotiling
 [x] get a new cool gtk theme
 [] setup tmux
+[] customize your alacritty terminal and change ascii art
