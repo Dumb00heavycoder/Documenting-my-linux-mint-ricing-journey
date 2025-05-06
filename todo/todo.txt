@@ -4,6 +4,6 @@
 []complete the polybar
 []fix the sound bug 
 [] change files themes
-[] do autotiling
-[] get a new cool gtk theme
+[x] do autotiling
+[x] get a new cool gtk theme
 [] setup tmux
