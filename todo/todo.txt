@@ -2,8 +2,8 @@
 [x]set the themes as per your wallpapers
 [x]set the rofi 
 []complete the polybar
-[]fix the sound bug 
-[] change files themes
+[x]fix the sound bug 
+[x] change files themes
 [x] do autotiling
 [x] get a new cool gtk theme
 [] setup tmux
