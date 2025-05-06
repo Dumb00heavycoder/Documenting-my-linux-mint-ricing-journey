@@ -1,7 +1,7 @@
 [x]Copy the configs
 [x]set the themes as per your wallpapers
 [x]set the rofi 
-[]complete the polybar
+[x]complete the i3status bar
 [x]fix the sound bug 
 [x] change files themes
 [x] do autotiling
