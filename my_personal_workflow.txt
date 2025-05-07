@@ -3,4 +3,4 @@ workspace 2:- Brave browser (to search)
 workspace 3:- terminal (to edit stuff)
 workspace 4:- gimp (brain storming)
 workspace 5:- spotify + whatsapp 
-workspace 6:- File manager 
+workspace 6:- File manager
