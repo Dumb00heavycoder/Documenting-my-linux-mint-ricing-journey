@@ -18,7 +18,7 @@ red     = "#C95792"
 green   = "#7C4585"
 yellow  = "#F8B55F"
 blue    = "#7C4585"
-magenta = "#ffffff"  # <-- Changed purple to white
+magenta = "#ffffff"  
 cyan    = "#7C4585"
 white   = "#ffffff"
 
@@ -28,6 +28,5 @@ red     = "#C95792"
 green   = "#7C4585"
 yellow  = "#F8B55F"
 blue    = "#7C4585"
-magenta = "#ffffff"  # <-- Changed bright purple to white
-cyan    = "#7C4585"
+magenta = "#ffffff"  
 white   = "#ffffff"
