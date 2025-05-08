@@ -1,3 +1,4 @@
+#This to-do list is very basic and you can follow the steps in any way you wish to 
 [x]Copy the configs
 [x]set the themes as per your wallpapers
 [x]set the rofi 
@@ -6,6 +7,6 @@
 [x] change files themes
 [x] do autotiling
 [x] get a new cool gtk theme
-[] setup tmux
+[x] setup tmux
 [x] customize your alacritty terminal
 [] change ascii art
