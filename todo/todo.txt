@@ -9,6 +9,7 @@
 [x] get a new cool gtk theme
 [x] setup tmux
 [x] customize your alacritty terminal
-[] change ascii art
-[] do some changes with i3lock
+[] change ascii artp
+[x] do some changes with i3lock
 [] try fixing the mic issue 
+[] edit ur i3lock 
