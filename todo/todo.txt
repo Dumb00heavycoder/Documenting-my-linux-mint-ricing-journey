@@ -10,5 +10,5 @@
 [x] setup tmux
 [x] customize your alacritty terminal
 [] change ascii art
-[] do some changes with ilock
+[] do some changes with i3lock
 [] try fixing the mic issue 
