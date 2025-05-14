@@ -11,3 +11,4 @@
 [x] customize your alacritty terminal
 [] change ascii art
 [] do some changes with ilock
+[] try fixing the mic issue 
