@@ -10,3 +10,4 @@
 [x] setup tmux
 [x] customize your alacritty terminal
 [] change ascii art
+[] do some changes with ilock
